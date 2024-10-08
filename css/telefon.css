@@ -1,0 +1,49 @@
+.baslik{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    min-height: 80px;
+    overflow: hidden;
+    height: 220px;
+}
+.baslik .icerik a{
+    display: inline;
+    padding: 0.25rem;
+    text-align: center;
+    font-size: 1rem;
+}
+.icerik a:hover{
+    color: yellow;
+    font-size: 1.5rem;
+}
+.resim1{
+    display: flex;
+    width: 200px;
+}
+.resim1{
+    display: none;
+}
+.resim2{
+    display: flex;
+    flex-direction: column;
+}
+.card h3{
+    font-size: 0.75rem;
+}
+.card{
+    width: 9rem;
+    height: 12rem;
+    margin: 0.75rem;
+    border: 1px solid white;
+ }
+ .contsss{
+    margin-bottom: 3rem;
+ }
+ .mus{
+
+    margin-right: 20px;
+ }
+ .son h5{
+    text-align: center;
+    font-size: 10px;
+}
